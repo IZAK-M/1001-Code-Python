@@ -1,0 +1,6 @@
+id, nom           , metier                  , experience, competences
+ 1, Claire Dupont , Ingénieure Data         ,          3, ['Python'           , 'SQL'    , 'Azure']
+ 2, Yanis Morel   , Analyste Data           ,          2, ['PowerBI'          , 'SQL']
+ 3, Sofia Ben Amar, Scientifique des Données,          4, ['Python'           , 'Pandas' , 'Machine Learning']
+ 4, Lucas Perrin  , Ingénieur Data          ,          5, ['Spark'            , 'Airflow', 'Docker']
+ 5, Mélanie Roche , Cheffe de Projet Data   ,          6, ['Gestion de projet', 'SQL']

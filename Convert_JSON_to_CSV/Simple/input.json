@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nom": "Claire Dupont",
+    "metier": "Ingénieure Data",
+    "experience": 3,
+    "competences": ["Python", "SQL", "Azure"]
+  },
+  {
+    "id": 2,
+    "nom": "Yanis Morel",
+    "metier": "Analyste Data",
+    "experience": 2,
+    "competences": ["PowerBI", "SQL"]
+  },
+  {
+    "id": 3,
+    "nom": "Sofia Ben Amar",
+    "metier": "Scientifique des Données",
+    "experience": 4,
+    "competences": ["Python", "Pandas", "Machine Learning"]
+  },
+  {
+    "id": 4,
+    "nom": "Lucas Perrin",
+    "metier": "Ingénieur Data",
+    "experience": 5,
+    "competences": ["Spark", "Airflow", "Docker"]
+  },
+  {
+    "id": 5,
+    "nom": "Mélanie Roche",
+    "metier": "Cheffe de Projet Data",
+    "experience": 6,
+    "competences": ["Gestion de projet", "SQL"]
+  }
+]
