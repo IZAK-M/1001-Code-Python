@@ -46,3 +46,9 @@ class Compte:
         self.solde += interets
         self.historique.append({'type': 'interet', 'montant': interets, 'solde_apres': self.solde})
 
+    def __str__(self):
+        return (f" Compte {self.num_compte} - {self.titulaire} | Solde : {self.solde} € | {len(self.historique)} opération(s)" )
+    
+    def __repr__(self):
+        return (f"Compte(titulaire='{self.titulaire}', num_compte='{self.num_compte}', solde={self.solde})")
+
